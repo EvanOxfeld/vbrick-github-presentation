@@ -20,4 +20,5 @@ vbrick-github-presentation
 
 
 ### Advanced Topics
-* Post-Receive Hooks
+* Hooks
+  * Example - [Hubot](http://hubot.github.com/)
