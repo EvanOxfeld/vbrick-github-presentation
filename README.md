@@ -1,5 +1,5 @@
-vbrick-github-presentation
-==========================
+vbrick-github-presentacion!
+===========================
 
 ## Presentation Outline
 
@@ -18,7 +18,9 @@ vbrick-github-presentation
 * Pll requests, bro!
 * Markdown
 
-
 ### Advanced Topics
 * Hooks
   * Example - [Hubot](http://hubot.github.com/)
+
+### Cheering
+* We've got Github ya'll!
