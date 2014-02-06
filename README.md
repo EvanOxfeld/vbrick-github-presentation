@@ -15,7 +15,7 @@ vbrick-github-presentacion!
 
 ### GitHub Features
 * Forking
-* Pll requests, bro!
+* Pull requests, Sir!
 * Markdown
 
 ### Advanced Topics
