@@ -15,7 +15,7 @@ vbrick-github-presentation
 
 ### GitHub Features
 * Forking
-* Pull requests
+* Pull requests, Sir!
 * Markdown
 
 
