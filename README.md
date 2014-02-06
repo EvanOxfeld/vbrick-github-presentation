@@ -6,12 +6,12 @@ vbrick-github-presentation
 ### Git Basics
 * Clone
 * Commit
+* Branch
+* Merge
+* Rebase
 * Push
 * Pull
 * Fetch
-* Merge
-* Rebase
-
 
 ### GitHub Features
 * Forking
